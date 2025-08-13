@@ -1,0 +1,15 @@
+streamlit
+jupyterlab
+numpy
+pandas
+matplotlib
+seaborn
+scikit-learn
+nltk==3.8.1
+fastapi
+uvicorn
+google_play_scraper
+openai
+transformers
+plotly
+python-dotenv

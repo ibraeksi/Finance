@@ -1,0 +1,301 @@
+brand,category,keyword,count
+Klarna,quality_usability,easy,953
+Klarna,quality_usability,simple,141
+Klarna,quality_usability,valuable,1
+Klarna,quality_usability,quality,21
+Klarna,quality_usability,seamless,8
+Klarna,quality_usability,affordable,69
+Klarna,quality_usability,flexibility,26
+Klarna,quality_usability,ease,26
+Klarna,quality_usability,usability,2
+Klarna,quality_usability,functionality,42
+Klarna,quality_usability,intuitive,9
+Klarna,quality_usability,smooth,18
+N26,quality_usability,smooth,62
+N26,quality_usability,easy,901
+N26,quality_usability,quality,33
+N26,quality_usability,intuitive,93
+N26,quality_usability,usability,8
+N26,quality_usability,functionality,43
+N26,quality_usability,reliability,8
+N26,quality_usability,simple,274
+N26,quality_usability,seamless,10
+N26,quality_usability,affordable,2
+N26,quality_usability,ease,19
+N26,quality_usability,accessibility,1
+N26,quality_usability,valuable,2
+N26,quality_usability,flexibility,1
+Revolut,quality_usability,simple,136
+Revolut,quality_usability,easy,1357
+Revolut,quality_usability,functionality,23
+Revolut,quality_usability,flexibility,15
+Revolut,quality_usability,smooth,67
+Revolut,quality_usability,intuitive,48
+Revolut,quality_usability,seamless,30
+Revolut,quality_usability,ease,26
+Revolut,quality_usability,usability,7
+Revolut,quality_usability,quality,11
+Revolut,quality_usability,reliability,3
+Revolut,quality_usability,valuable,2
+Revolut,quality_usability,affordable,3
+Revolut,quality_usability,accessibility,1
+Trade Republic,quality_usability,intuitive,60
+Trade Republic,quality_usability,easy,227
+Trade Republic,quality_usability,simple,89
+Trade Republic,quality_usability,quality,7
+Trade Republic,quality_usability,smooth,10
+Trade Republic,quality_usability,functionality,34
+Trade Republic,quality_usability,accessibility,6
+Trade Republic,quality_usability,flexibility,3
+Trade Republic,quality_usability,reliability,2
+Trade Republic,quality_usability,usability,25
+Trade Republic,quality_usability,ease,2
+Bunq,quality_usability,simple,71
+Bunq,quality_usability,easy,228
+Bunq,quality_usability,intuitive,47
+Bunq,quality_usability,ease,8
+Bunq,quality_usability,quality,8
+Bunq,quality_usability,functionality,27
+Bunq,quality_usability,smooth,12
+Bunq,quality_usability,seamless,6
+Bunq,quality_usability,usability,13
+Bunq,quality_usability,accessibility,1
+Bunq,quality_usability,reliability,3
+Bunq,quality_usability,valuable,1
+Bunq,quality_usability,flexibility,2
+Klarna,innovation_technology,data,140
+Klarna,innovation_technology,ai,27
+Klarna,innovation_technology,learn,6
+Klarna,innovation_technology,cloud,6
+Klarna,innovation_technology,digital,7
+Klarna,innovation_technology,smart,8
+Klarna,innovation_technology,innovation,1
+Klarna,innovation_technology,technology,3
+N26,innovation_technology,digital,53
+N26,innovation_technology,learn,19
+N26,innovation_technology,smart,51
+N26,innovation_technology,data,117
+N26,innovation_technology,ai,10
+N26,innovation_technology,technology,6
+N26,innovation_technology,realtime,7
+N26,innovation_technology,cloud,1
+N26,innovation_technology,innovation,2
+Revolut,innovation_technology,ai,30
+Revolut,innovation_technology,digital,37
+Revolut,innovation_technology,learn,17
+Revolut,innovation_technology,smart,21
+Revolut,innovation_technology,data,31
+Revolut,innovation_technology,realtime,9
+Revolut,innovation_technology,technology,9
+Revolut,innovation_technology,innovation,2
+Revolut,innovation_technology,automation,1
+Trade Republic,innovation_technology,data,81
+Trade Republic,innovation_technology,ai,11
+Trade Republic,innovation_technology,realtime,7
+Trade Republic,innovation_technology,learn,6
+Trade Republic,innovation_technology,cloud,1
+Trade Republic,innovation_technology,smart,2
+Bunq,innovation_technology,ai,47
+Bunq,innovation_technology,digital,13
+Bunq,innovation_technology,smart,7
+Bunq,innovation_technology,data,13
+Bunq,innovation_technology,learn,7
+Bunq,innovation_technology,realtime,3
+Bunq,innovation_technology,innovation,4
+Bunq,innovation_technology,technology,4
+Klarna,trust_ethics,trust,30
+Klarna,trust_ethics,security,103
+Klarna,trust_ethics,impact,3
+Klarna,trust_ethics,secure,34
+Klarna,trust_ethics,safe,41
+Klarna,trust_ethics,safety,7
+Klarna,trust_ethics,protected,3
+Klarna,trust_ethics,transparency,2
+Klarna,trust_ethics,responsibility,1
+Klarna,trust_ethics,accountability,1
+Klarna,trust_ethics,protection,6
+N26,trust_ethics,security,134
+N26,trust_ethics,secure,74
+N26,trust_ethics,responsibility,6
+N26,trust_ethics,compliance,8
+N26,trust_ethics,safety,11
+N26,trust_ethics,safe,58
+N26,trust_ethics,transparency,13
+N26,trust_ethics,trust,82
+N26,trust_ethics,protection,15
+N26,trust_ethics,protected,2
+N26,trust_ethics,accountability,1
+N26,trust_ethics,impact,2
+Revolut,trust_ethics,secure,97
+Revolut,trust_ethics,safe,87
+Revolut,trust_ethics,security,143
+Revolut,trust_ethics,trust,49
+Revolut,trust_ethics,safety,15
+Revolut,trust_ethics,compliance,1
+Revolut,trust_ethics,responsibility,7
+Revolut,trust_ethics,protection,11
+Revolut,trust_ethics,protected,3
+Revolut,trust_ethics,accountability,2
+Revolut,trust_ethics,transparency,9
+Trade Republic,trust_ethics,trust,48
+Trade Republic,trust_ethics,protection,6
+Trade Republic,trust_ethics,security,22
+Trade Republic,trust_ethics,transparency,5
+Trade Republic,trust_ethics,secure,7
+Trade Republic,trust_ethics,compliance,1
+Trade Republic,trust_ethics,impact,1
+Trade Republic,trust_ethics,safe,10
+Trade Republic,trust_ethics,protected,2
+Trade Republic,trust_ethics,responsibility,1
+Trade Republic,trust_ethics,safety,4
+Bunq,trust_ethics,protected,2
+Bunq,trust_ethics,trust,47
+Bunq,trust_ethics,security,43
+Bunq,trust_ethics,safe,17
+Bunq,trust_ethics,secure,8
+Bunq,trust_ethics,responsibility,1
+Bunq,trust_ethics,sustainable,3
+Bunq,trust_ethics,protection,7
+Bunq,trust_ethics,transparency,7
+Bunq,trust_ethics,safety,1
+Klarna,empowerment_control,freedom,9
+Klarna,empowerment_control,choose,38
+Klarna,empowerment_control,personal,40
+Klarna,empowerment_control,choice,34
+Klarna,empowerment_control,control,14
+Klarna,empowerment_control,confidence,2
+Klarna,empowerment_control,insight,1
+N26,empowerment_control,personal,111
+N26,empowerment_control,choose,41
+N26,empowerment_control,confidence,8
+N26,empowerment_control,choice,15
+N26,empowerment_control,insight,8
+N26,empowerment_control,control,48
+N26,empowerment_control,freedom,4
+Revolut,empowerment_control,personal,43
+Revolut,empowerment_control,freedom,3
+Revolut,empowerment_control,choose,17
+Revolut,empowerment_control,choice,13
+Revolut,empowerment_control,control,40
+Revolut,empowerment_control,insight,1
+Revolut,empowerment_control,confidence,2
+Trade Republic,empowerment_control,choose,15
+Trade Republic,empowerment_control,confidence,4
+Trade Republic,empowerment_control,control,6
+Trade Republic,empowerment_control,personal,33
+Trade Republic,empowerment_control,choice,15
+Trade Republic,empowerment_control,insight,1
+Trade Republic,empowerment_control,goal,1
+Trade Republic,empowerment_control,freedom,5
+Bunq,empowerment_control,personal,44
+Bunq,empowerment_control,control,15
+Bunq,empowerment_control,choose,17
+Bunq,empowerment_control,freedom,2
+Bunq,empowerment_control,confidence,4
+Bunq,empowerment_control,choice,9
+Bunq,empowerment_control,goal,3
+Klarna,user_centricity_support,support,132
+Klarna,user_centricity_support,experience,191
+Klarna,user_centricity_support,service,676
+Klarna,user_centricity_support,people,137
+Klarna,user_centricity_support,enjoy,41
+Klarna,user_centricity_support,care,54
+Klarna,user_centricity_support,clarity,1
+Klarna,user_centricity_support,tailored,1
+N26,user_centricity_support,experience,543
+N26,user_centricity_support,service,1110
+N26,user_centricity_support,support,1287
+N26,user_centricity_support,people,241
+N26,user_centricity_support,care,93
+N26,user_centricity_support,enjoy,23
+N26,user_centricity_support,clarity,2
+N26,user_centricity_support,tailored,1
+Revolut,user_centricity_support,people,99
+Revolut,user_centricity_support,service,521
+Revolut,user_centricity_support,support,268
+Revolut,user_centricity_support,experience,301
+Revolut,user_centricity_support,care,31
+Revolut,user_centricity_support,enjoy,21
+Revolut,user_centricity_support,clarity,1
+Trade Republic,user_centricity_support,support,399
+Trade Republic,user_centricity_support,service,266
+Trade Republic,user_centricity_support,experience,131
+Trade Republic,user_centricity_support,clarity,3
+Trade Republic,user_centricity_support,care,22
+Trade Republic,user_centricity_support,people,70
+Trade Republic,user_centricity_support,enjoy,11
+Bunq,user_centricity_support,service,276
+Bunq,user_centricity_support,support,450
+Bunq,user_centricity_support,experience,186
+Bunq,user_centricity_support,enjoy,7
+Bunq,user_centricity_support,people,89
+Bunq,user_centricity_support,care,40
+Bunq,user_centricity_support,clarity,2
+Klarna,community_belonging,abroad,1
+Klarna,community_belonging,community,2
+Klarna,community_belonging,social,2
+Klarna,community_belonging,global,3
+Klarna,community_belonging,sharing,3
+Klarna,community_belonging,worldwide,1
+N26,community_belonging,social,27
+N26,community_belonging,sharing,4
+N26,community_belonging,abroad,46
+N26,community_belonging,global,4
+N26,community_belonging,community,2
+N26,community_belonging,worldwide,3
+Revolut,community_belonging,abroad,137
+Revolut,community_belonging,social,7
+Revolut,community_belonging,sharing,6
+Revolut,community_belonging,community,2
+Revolut,community_belonging,worldwide,13
+Revolut,community_belonging,global,5
+Trade Republic,community_belonging,global,4
+Trade Republic,community_belonging,social,3
+Trade Republic,community_belonging,abroad,1
+Trade Republic,community_belonging,community,5
+Trade Republic,community_belonging,sharing,1
+Bunq,community_belonging,global,1
+Bunq,community_belonging,social,35
+Bunq,community_belonging,community,19
+Bunq,community_belonging,sharing,3
+Bunq,community_belonging,worldwide,3
+Bunq,community_belonging,abroad,4
+Klarna,growth_ambition,free,61
+Klarna,growth_ambition,earn,4
+Klarna,growth_ambition,future,18
+Klarna,growth_ambition,progress,7
+Klarna,growth_ambition,opportunity,32
+Klarna,growth_ambition,development,4
+Klarna,growth_ambition,growth,1
+N26,growth_ambition,free,227
+N26,growth_ambition,future,64
+N26,growth_ambition,opportunity,9
+N26,growth_ambition,progress,12
+N26,growth_ambition,development,6
+N26,growth_ambition,vision,4
+N26,growth_ambition,earn,3
+N26,growth_ambition,growth,1
+Revolut,growth_ambition,expansion,2
+Revolut,growth_ambition,future,26
+Revolut,growth_ambition,free,107
+Revolut,growth_ambition,development,4
+Revolut,growth_ambition,progress,4
+Revolut,growth_ambition,earn,9
+Revolut,growth_ambition,opportunity,6
+Revolut,growth_ambition,vision,1
+Revolut,growth_ambition,growth,1
+Trade Republic,growth_ambition,progress,4
+Trade Republic,growth_ambition,free,54
+Trade Republic,growth_ambition,future,11
+Trade Republic,growth_ambition,development,6
+Trade Republic,growth_ambition,opportunity,4
+Trade Republic,growth_ambition,growth,3
+Trade Republic,growth_ambition,earn,1
+Bunq,growth_ambition,free,258
+Bunq,growth_ambition,future,25
+Bunq,growth_ambition,progress,6
+Bunq,growth_ambition,earn,3
+Bunq,growth_ambition,opportunity,4
+Bunq,growth_ambition,development,3
+Bunq,growth_ambition,vision,2
+Bunq,growth_ambition,expansion,1
