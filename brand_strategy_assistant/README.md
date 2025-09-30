@@ -2,7 +2,7 @@
 
 A multi-page AI-powered app for analyzing customer perception, brand communication and competition, strategic alignment — built with Streamlit, Transformers, ML Technics, and LLM APIs (OpenAI).
 
-The analysis is hosted on Streamlit and can be viewed on:
+The app is hosted on Streamlit and can be viewed on:
 
 https://brand-strategy-assistant.streamlit.app/
 
