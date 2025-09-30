@@ -6,7 +6,6 @@ from pages.brandanalysis import brandanalysis
 from pages.companalysis import companalysis
 from pages.customeranalysis import customeranalysis
 from pages.chatbot import chatbot
-from pages.aboutus import aboutus
 
 
 def main():
@@ -39,8 +38,6 @@ def main():
         customeranalysis()
     elif st.session_state.active_page == 'AI Chatbot':
         chatbot()
-    elif st.session_state.active_page == 'About Us':
-        aboutus()
 
 
 if __name__ == '__main__':
