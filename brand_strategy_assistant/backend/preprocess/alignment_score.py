@@ -1,13 +1,9 @@
 from sklearn.preprocessing import normalize
 from sklearn.metrics.pairwise import cosine_similarity
-import numpy as np
-import os, sys
 import json
+from pathlib import Path
 
-rootpath = os.path.join(os.getcwd(), '..')
-sys.path.append(rootpath)
-
-kw_dict_data = os.path.join(rootpath, 'data/raw/', 'kw_topics.json')
+kw_dict_data = Path(__file__).parents[2] / 'data/raw/kw_topics.json'
 with open(kw_dict_data, 'r') as kw:
     values_keywords = json.load(kw)
 
