@@ -2,6 +2,9 @@
 
 A multi-page AI-powered app for analyzing customer perception, brand communication and competition, strategic alignment — built with Streamlit, Transformers, ML Technics, and LLM APIs (OpenAI).
 
+The analysis is hosted on Streamlit and can be viewed on:
+https://brand-strategy-assistant.streamlit.app/
+
 ---
 
 ## Features
@@ -18,7 +21,7 @@ A multi-page AI-powered app for analyzing customer perception, brand communicati
 - Extracts:
   - Main topics from user reviews:
     Derived by OpenAI for a 1000 uniform sample of reviews, modeled (utilizing XGBoost Classifier) for the rest
-  - Sentiment classification (multilingual, model = 'tabularisai/multilingual-sentiment-analysis' from Hugging Face, for further information check https://huggingface.co/tabularisai/multilingual-sentiment-analysis)
+  - Sentiment classification (multilingual, model = 'tabularisai/multilingual-sentiment-analysis' from Hugging Face
 - Maps reviews to psychological value categories (e.g., *trust*, *freedom*, *simplicity*, etc.)
 
 ### Brand Value Mapping
